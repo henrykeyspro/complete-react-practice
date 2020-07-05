@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  /* background-color: black; */
+  padding :30px 30px 30px 30px;
+  
+  
+}
+button{
+  background-color: blue;
+  color: antiquewhite;
+  border: none;
+  border-radius: 5px;
+  margin: 20px;
+  font-size: 18px;
+
+}
+input{
+  text-align: center;
+  margin:  5px ;
+  background-color:white;
+  color: black;
+  font-weight: 100;
+  padding : 10px;
+  border-radius: 15px;
+}
+p{
+  font-weight: 200;
+  color: black;
+}
+
+
